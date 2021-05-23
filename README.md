@@ -1,4 +1,4 @@
 # excel_iva_digital
-Es planilla de excel que hice hace algún tiempo para exportar compras y ventas y como el formato es el mismo recientemente la adapte para exportar al iva digital. 
+Esta planilla de excel que hice hace algún tiempo para exportar compras y ventas utilizando vba y como el formato es el mismo recientemente la adapte para exportar al iva digital. 
 Una funcionalidad que agregué es que puede leer los archivos csv que se exportan del portal iva y con ello ir creando una base de datos (sqlite) en la carpeta del libro excel;por lo que permite cargar todos los comprobantes y editarlos desde el excel o cuando escribimos los datos principales de un comprobante si lo encuentra en la base de datos automaticamente completa la fila con los datos restantes, esto es el útil por ejemplo,en los casos en que necesitamos prorratear el credito fiscal.
 Espero que les sea de utilidad y por supuesto cualquier tipo de observación en cuanto al funcionamiento o posibilidad de mejorar la planilla es bienvienida.
